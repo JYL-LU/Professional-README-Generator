@@ -44,7 +44,7 @@ function init() {
         type: "list",
         message: "What license did you use?",
         name: "license",
-        choices: ["MIT License", "BSD3 License ", "APACHE 2.0 License", "N/A"],
+        choices: ["MIT", "BSD3 ", "APACHE 2.0", "N/A"],
       },
 
       {
