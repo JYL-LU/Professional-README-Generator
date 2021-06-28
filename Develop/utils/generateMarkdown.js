@@ -65,7 +65,8 @@ function generateMarkdown(data) {
 
 ## Visual Presentation
 
-!(./Professional-README-Generator/Develop/video-image/Terminal Input.png)
+<img width="721" alt="Terminal Input" src="https://user-images.githubusercontent.com/82979870/123584992-3c803200-d797-11eb-91a3-c736658848e0.png">
+
  
 ## Description
   ${data.description}
