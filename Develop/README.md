@@ -1,35 +1,33 @@
-# test
+# jineg
 
-## Table Of Contents
-
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contribution](#contribution)
-- [Testing](#testing)
-- [Questions](#questions)
+## Table Of Contents 
+  * [Description](#description)
+  * [Installation](#installation) 
+  * [Usage](#usage) 
+  * [License](#license) 
+  * [Contribution](#contribution)
+  * [Testing](#testing)
+  * [Questions](#questions)
 
 ## Visual Presentation
 
+<img width="721" alt="Terminal Input" src="https://user-images.githubusercontent.com/82979870/123585993-f035f180-d798-11eb-91f2-1cc9f12b6acd.png">
+ 
 ## Description
-
-test
+  wong
 
 ## Installation
-
-test
+  lneong
 
 ## Usage
+  ieogn
 
-test
+## License 
+  ![github license](https://img.shields.io/badge/license-MIT-blueviolet.png) 
+  
+ For license link, please check at (https://choosealicense.com/licenses/mit/#)
 
-## License
-
-![github license](https://img.shields.io/badge/license-MIT-blueviolet.png)
-
-For license link, please check at (https://choosealicense.com/licenses/mit/#)
-
+  
 ## License
 
 This project is licensed under the MIT license.
@@ -54,15 +52,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Contribution
 
-test
+## Contribution
+  eng
 
 ## Test
-
-test
+  jong
 
 ## Questions
-
-- For further information, please send email to test
-- Check for details on Github at [test](https://github.com/test)
+  * For further information, please send email to ngn
+  * Check for details on Github at [gng](https://github.com/gng)
