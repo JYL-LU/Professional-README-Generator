@@ -81,7 +81,7 @@ function init() {
       let formatted = markdown(data);
       // console.log(formatted);
 
-      writeToFile("READMEtest.md", formatted);
+      writeToFile("README.md", formatted);
     });
 }
 

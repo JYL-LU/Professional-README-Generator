@@ -65,8 +65,7 @@ function generateMarkdown(data) {
 
 ## Visual Presentation
 
-<img width="721" alt="Terminal Input" src="https://user-images.githubusercontent.com/82979870/123584992-3c803200-d797-11eb-91a3-c736658848e0.png">
-
+<img width="721" alt="Terminal Input" src="https://user-images.githubusercontent.com/82979870/123585993-f035f180-d798-11eb-91f2-1cc9f12b6acd.png">
  
 ## Description
   ${data.description}
