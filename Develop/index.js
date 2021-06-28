@@ -44,14 +44,44 @@ function init() {
         type: "list",
         message: "What license did you use?",
         name: "license",
-        choices: ["MIT", "BSD3", "APACHE 2.0", "none"],
+        choices: ["MIT License", "BSD3 License ", "APACHE 2.0 License", "N/A"],
+      },
+
+      {
+        type: "input",
+        message: "Who are the contributors?",
+        name: "contribution",
+      },
+
+      {
+        type: "input",
+        message: "Test",
+        name: "test",
+      },
+
+      {
+        type: "input",
+        message: "questions",
+        name: "question",
+      },
+
+      {
+        type: "input",
+        message: "Enter you email address",
+        name: "email",
+      },
+
+      {
+        type: "input",
+        message: "Enter your Github Username",
+        name: "github",
       },
     ])
     .then((data) => {
       let formatted = markdown(data);
-      console.log(formatted);
+      // console.log(formatted);
 
-      //writeToFile("READMEtest.md", formatted);
+      writeToFile("READMEtest.md", formatted);
     });
 }
 
