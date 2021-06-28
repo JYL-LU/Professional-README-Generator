@@ -62,6 +62,10 @@ function generateMarkdown(data) {
   * [Contribution](#contribution)
   * [Testing](#testing)
   * [Questions](#questions)
+
+## Visual Presentation
+
+!(./Professional-README-Generator/Develop/video-image/Terminal Input.png)
  
 ## Description
   ${data.description}
