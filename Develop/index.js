@@ -9,7 +9,7 @@ const path = require("path");
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
   //create a path to current work directory and assign it to the file system with paramether of fileName and data
-  fs.writeFileSync(path.join(process.cwd(), fileName), data);
+  fs.writeFileSync(path.join(process.cwd(), "../", fileName), data);
 }
 
 // TODO: Create a function to initialize app
